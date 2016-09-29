@@ -1,0 +1,3 @@
+# Ryan Swanstrom
+
+Since creating the first data science specific blog on the internet in 2012, Ryan ...
