@@ -4,6 +4,8 @@ A bibtex list of publications of which I am a part. See the bibtex file.
 
 # Invited Presentations/Talks
 
+* What are these new Microsoft Data Certifications? - SQL Saturday 888, August 2019
+* Doing Data Science on Azure (and the Certifications) - Full Day Workshop, SQL Saturday 888, August 2019
 * Mathematics & Computer Science Career Presenter, University of Sioux Falls, March 2019
 * Data Science in the Cloud with Microsoft Azure ML, South Dakota State University Data Science Symposium, February 2018
 * Guest Lecturer for the day, University of South Dakota Beacom School of Business, November 2017
