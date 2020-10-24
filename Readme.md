@@ -4,7 +4,7 @@ A bibtex list of publications of which I am a part. See the bibtex file.
 
 # Invited Presentations/Talks
 
-* Guest Lecture - University of South Dakota Beacom School of Business, September 2020
+* Guest Lecture for MBA students - University of South Dakota Beacom School of Business, September 2020
 * What will you Build? - Keynote, CCSC Rocky Mountain Region Conference, October 2019
 * [AI & Big Data Panelist](https://youtu.be/xUlKVv52BIM) - South Dakota Technology Showcase, September 2019
 * What are these new Microsoft Data Certifications? - SQL Saturday 888, August 2019
